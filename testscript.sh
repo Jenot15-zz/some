@@ -4,4 +4,5 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "sth"
 echo "sth2"
+echo "sth3"
 
