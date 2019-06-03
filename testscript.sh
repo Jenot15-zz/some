@@ -6,5 +6,4 @@ echo "sth"
 echo "sth2"
 echo "sth3"
 echo "sth4"
-echo "sth5"
 
